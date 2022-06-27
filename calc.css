@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(201, 250, 253);
+    margin: 0% 25% 10% 25%;
+}
+#det{
+    text-align: center;
+}
+#titl{
+    text-align: center;
+}
+input[type="button"]
+{
+    background-color: rgb(251, 255, 0);
+    border-radius: 5%;
+    color: rgb(214, 32, 0);
+    border-width: 2%;
+    border-radius: 25%;
+    width:100%;
+    height: 100%;
+
+}
+input[type="text"]
+{
+    background-color:rgb(255, 255, 255);
+    font-size: 5mm;
+    border-color: rgb(25, 153, 228);
+    border-width: 2%;
+    border-radius: 18%;
+    height: 100%;
+    width:100%
+}
